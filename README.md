@@ -19,4 +19,4 @@
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogurt-shadow)](https://github.com/yogurt-shadoww/github-readme-stats)
 
-![yogurt-shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogurt-shadow&show_icons=true&theme=merko)
+![yogurt-shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogurt-shadow&show_icons=true&theme=tokyonight)
